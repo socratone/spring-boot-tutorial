@@ -29,7 +29,7 @@ public class HelloController {
 
 아래 경로에 추가한다.
 
-src/main/java/com/example/spring_boot/HelloController.java
+`src/main/java/com/example/spring_boot/HelloController.java`
 
 **3. Maven을 사용한다면 다음 명령어를 입력해서 서버를 실행한다.**
 
